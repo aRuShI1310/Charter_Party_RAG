@@ -1,6 +1,13 @@
-langchain langchain-google-genai pgvector psycopg2-binary sqlalchemy google-generativeai
-langchain-text-splitters langchain-community langgraph
+langchain
 langchain[google-genai]
 langchain-google-genai
-pymupdf langchain-community
+langchain-community
+langchain-text-splitters
+langgraph
+sqlalchemy
+psycopg2-binary
+pgvector
+google-generativeai
+pymupdf
 pypdf
+python-dotenv
